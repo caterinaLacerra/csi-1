@@ -3,7 +3,7 @@
   border: none;
   background-color: transparent;
 }
-.btn:hover {
+.btn:on-click {
   background-color: RoyalBlue;
 }
 </style>
