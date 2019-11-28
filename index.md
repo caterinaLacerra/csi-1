@@ -6,19 +6,19 @@ Word Sense Disambiguation (WSD) is the task of associating a word in context wit
 
 
 ### Authors
-Caterina Lacerra, PhD student @ Sapienza\
+Caterina Lacerra, PhD student @ Sapienza<br/>
 lacerra [at] di.uniroma1.it
 
 
-[Michele Bevilacqua](https://mbevila.github.io/), PhD student @ Sapienza\
+[Michele Bevilacqua](https://mbevila.github.io/), PhD student @ Sapienza<br/>
 bevilacqua [at] di.uniroma1.it
 
 
-[Tommaso Pasini](https://pasinit.github.io/), Post-Doc @ Sapienza\
+[Tommaso Pasini](https://pasinit.github.io/), Post-Doc @ Sapienza<br/>
 pasini [at] di.uniroma1.it
 
 
-[Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/), Full Professor @ Sapienza\
+[Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/), Full Professor @ Sapienza<br/>
 navigli [at] di.uniroma1.it
 
 
