@@ -5,7 +5,7 @@
 }
 
  .modal {
-  display: block; 
+  display: none; 
   position: fixed; 
   z-index: 1;
   left: 0;
@@ -16,6 +16,7 @@
   background-color: rgb(0,0,0); 
   background-color: rgba(0,0,0,0.4);
 }
+
 .modal-content {
   background-color: #fefefe;
   margin: 15% auto; 
@@ -35,9 +36,9 @@ window.onclick = function(event) {
   }
 } 
 button.onclick = function(event) {
+  button.background-color = "black";
   modal.style.display = "block";
 }
- 
 </script>
 
 <h2>Abstract</h2>
