@@ -3,7 +3,7 @@
   border: none;
   background-color: transparent;
 }
-.btn:on-click {
+.btn:active {
   background-color: RoyalBlue;
 }
 </style>
