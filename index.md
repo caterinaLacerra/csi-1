@@ -3,10 +3,7 @@
   border: none;
   background-color: transparent;
 }
-.btn:active {
- modal.style.display = "block";
-}
-  
+
  .modal {
   display: none; 
   position: fixed; 
@@ -29,12 +26,18 @@
 </style>
 
 <script>
+var modal = document.getElementById("myModal");
+var button = document.getElementById("button");
+  
 window.onclick = function(event) {
   if (event.target == modal) {
     modal.style.display = "none";
   }
 } 
-var modal = document.getElementById("myModal");
+button.onclick = function(event) {
+  modal.style.display = "block";
+}
+ 
 </script>
 
 <h2>Abstract</h2>
@@ -47,7 +50,7 @@ var modal = document.getElementById("myModal");
   </div>
 </div>
 
-### Reference <button class="btn"><i class="far fa-bookmark"></i></button>
+### Reference <button id="button" class="btn"><i class="far fa-bookmark"></i></button>
 <a href="https://pasinit.github.io/papers/lacerra_etal_aaai2020.pdf" download target='_blank'>CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation</a>
 ### Authors
 Caterina Lacerra, PhD student @ Sapienza<br/>
