@@ -3,6 +3,9 @@
   border: none;
   background-color: transparent;
 }
+.btn:hover {
+  background-color: RoyalBlue;
+}
 </style>
 
 <h2>Abstract</h2>
