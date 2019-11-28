@@ -2,6 +2,13 @@
 
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    <style>
+      
+      .downloads li + li {
+        border-right:none;
+        width:135px;
+      }
+    </style>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,7 +41,7 @@
         {% if site.show_downloads %}
         <ul class="download">
           <li><a href="https://github.com/caterinaLacerra/CSI/blob/master/_download/csi_data.zip">Download <strong>ZIP File</strong></a></li>
-          <li></li>
+
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
