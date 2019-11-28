@@ -5,13 +5,13 @@
 }
 
  .modal {
-  display: none; 
+  display: block; 
   position: fixed; 
   z-index: 1;
   left: 0;
   top: 0;
-  width: 100%; 
-  height: 100%; 
+  width: 50%; 
+  height: 50%; 
   overflow: auto; 
   background-color: rgb(0,0,0); 
   background-color: rgba(0,0,0,0.4);
@@ -26,6 +26,19 @@
 }
 </style>
 
+<script>
+var modal = document.getElementById("myModal");
+var button = document.getElementById("button_ref");
+  
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+} 
+button.onclick = function(event) {
+  modal.style.display = "block";
+}
+</script>
 
 
 <h2>Abstract</h2>
@@ -38,7 +51,7 @@
   </div>
 </div>
 
-### Reference <button id="button" class="btn"><i class="far fa-bookmark"></i></button>
+### Reference <button id="button_ref" class="btn"><i class="far fa-bookmark"></i></button>
 <a href="https://pasinit.github.io/papers/lacerra_etal_aaai2020.pdf" download target='_blank'>CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation</a>
 ### Authors
 Caterina Lacerra, PhD student @ Sapienza<br/>
@@ -55,20 +68,3 @@ pasini [at] di.uniroma1.it
 
 [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/), Full Professor @ Sapienza<br/>
 navigli [at] di.uniroma1.it
-
-
-<script>
-var modal = document.getElementById("myModal");
-var button = document.getElementById("button");
-  
-window.onclick = function(event) {
-  if (event.target == modal) {
-    modal.style.display = "none";
-  }
-} 
-button.onclick = function(event) {
-  button.background-color = "black";
-  modal.style.display = "block";
-}
-</script>
-
