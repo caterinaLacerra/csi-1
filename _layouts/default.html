@@ -3,6 +3,9 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <style>
+      .p_new {
+      font-size: 300%;
+      }
       .li_new {
          width:134px;
          float:left;
@@ -27,9 +30,9 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h2>{{ site.title | default: site.github.repository_name }}</a></h2>
 
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <p class="p_new">{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
