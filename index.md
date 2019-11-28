@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## CSI
 
-You can use the [editor on GitHub](https://github.com/caterinaLacerra/CSI/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Abstract
+Word Sense Disambiguation (WSD) is the task of associating a word in context with one of its meanings. While many works in the past have focused on raising the state of the art, none has even come close to achieving an F-score in the 80% ballpark when using WordNet as its sense inventory. We contend that one of the main reasons for this failure is the excessively fine granularity of this inventory, resulting in senses that are hard to differentiate between, even for an experienced human annotator. In this paper we cope with this long-standing problem by introducing Coarse Sense Inventory (CSI), obtained by linking WordNet concepts to a new set of 45 labels. The results show that the coarse granular-ity of CSI leads a WSD model to achieve 85.9% F1, while maintaining a high expressive power. Our set of labels also exhibits ease of use in tagging and a descriptiveness that other coarse inventories lack, as demonstrated in two annotation tasks which we performed. Moreover, a few-shot evaluation proves that the class-based nature of CSI allows the model to generalise over unseen or under-represented words.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Authors
+Caterina Lacerra
+PhD student @ Sapienza
+lacerra [at] di.uniroma1.it
 
-```markdown
-Syntax highlighted code block
+[Michele Bevilacqua](https://mbevila.github.io/)
+PhD student @ Sapienza
+bevilacqua [at] di.uniroma1.it
 
-# Header 1
-## Header 2
-### Header 3
+[Tommaso Pasini](https://pasinit.github.io/)
+Post-Doc @ Sapienza
+pasini [at] di.uniroma1.it
 
-- Bulleted
-- List
+[Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/)
+Full Professor @ Sapienza
+navigli [at] di.uniroma1.it
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caterinaLacerra/CSI/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
