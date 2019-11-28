@@ -2,62 +2,6 @@
 
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-<style>
-ul.download_buttons {
-  list-style:none;
-  height:40px;
-  padding:0;
-  background: #f4f4f4;
-  border-radius:5px;
-  border:1px solid #e0e0e0;
-  width:135px;
-}
-
-.download_buttons li {
-  width:135px;
-  float:left;
-  border-right:1px solid #e0e0e0;
-  height:40px;
-}
-
-.download_buttons li:first-child a {
-  border-radius:5px 0 0 5px;
-}
-
-.download_buttons li:last-child a {
-  border-radius:0 5px 5px 0;
-}
-
-.download_buttons a {
-  line-height:1;
-  font-size:11px;
-  color:#676767;
-  display:block;
-  text-align:center;
-  padding-top:6px;
-  height:34px;
-}
-
-.download_buttons a:hover, .download_buttons a:focus {
-  color:#675C5C;
-  font-weight:bold;
-}
-
-.download_buttons ul a:active {
-  background-color:#f0f0f0;
-}
-
-.download_buttons li + li + li {
-  border-right:none;
-  width:135px;
-}
-
-.download_buttons a strong {
-  font-size:14px;
-  display:block;
-  color:#222;
-}
-</style>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -88,7 +32,7 @@ ul.download_buttons {
         {% endif %}
 
         {% if site.show_downloads %}
-        <ul class="download_buttons">
+        <ul class="download">
           <li><a href="https://github.com/caterinaLacerra/CSI/blob/master/_download/csi_data.zip">Download <strong>ZIP File</strong></a></li>
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
