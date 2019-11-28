@@ -3,7 +3,6 @@
 
 ### Reference
 <a href="https://pasinit.github.io/papers/lacerra_etal_aaai2020.pdf" download target='_blank'>CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation</a>
-<i class="far fa-bookmark"></i>
 ### Authors
 Caterina Lacerra, PhD student @ Sapienza<br/>
 lacerra [at] di.uniroma1.it
