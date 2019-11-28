@@ -4,7 +4,7 @@
   background-color: transparent;
 }
 .btn:active {
-  background-color: RoyalBlue;
+ modal.style.display = "block";
 }
   
  .modal {
