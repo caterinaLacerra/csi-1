@@ -7,8 +7,11 @@ Word Sense Disambiguation (WSD) is the task of associating a word in context wit
 
 ### Authors
 Caterina Lacerra
+
 PhD student @ Sapienza
+
 lacerra [at] di.uniroma1.it
+
 
 [Michele Bevilacqua](https://mbevila.github.io/)
 PhD student @ Sapienza
