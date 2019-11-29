@@ -27,7 +27,8 @@
 
 <script>
 function myFunction() {
-  document.getElementById("myModal").style.display = block;
+  var modal = document.getElementById("myModal");
+  modal.style.display = block;
 }
 </script>
 
