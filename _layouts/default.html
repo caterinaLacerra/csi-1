@@ -83,17 +83,17 @@ ul.download_buttons {
 </style>
  <script>
   var btn = document.getElementById("but")
+  var modal = document.getElementById("myModal")
+
   btn.onclick = function() {
-    var modal = document.getElementById("myModal")
     modal.style.display = "block";
   }
    
   window.onclick = function(event) {
-    var modal = document.getElementById("myModal")
     if (event.target == modal) {
       modal.style.display = "none";
     }
-  } 
+ } 
 </script>
  
  <meta charset="UTF-8">
@@ -128,11 +128,10 @@ ul.download_buttons {
       <div id="myModal" class="modal">
         <!-- Modal content -->
         <div class="modal-content">
-          <span class="close">&times;</span>
           <p>Some text in the Modal..</p>
         </div>
       </div>
-      <button id="but">Click me</button>
+      <button id="but"></button>
       {{ content }}
       </section>
       
