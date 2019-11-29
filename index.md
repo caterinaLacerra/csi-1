@@ -5,7 +5,6 @@
 }
 
 .modal {
-  display: none;
   position: fixed; 
   z-index: 1;
   left: 0;
