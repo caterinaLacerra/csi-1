@@ -14,22 +14,31 @@
   <form action="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_download/bibtex" method="get" target="_blank"> 
   <button id="button" class="btn"><i class="far fa-bookmark"></i></button>
   </form>
-
  </div>
+
 <a href="https://pasinit.github.io/papers/lacerra_etal_aaai2020.pdf" download target='_blank'>CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation</a>
-### Authors
+<h3>Authors</h3>
+
+<div>
 <img src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_images/dino4.jpg" width="60px">
 <p>Caterina Lacerra, PhD student @ Sapienza<br/>
 lacerra [at] di.uniroma1.it</p>
+</div>
 
+<div>
 <img src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_images/dino2.jpg" width="60px">
 <p><a href=https://mbevila.github.io/>Michele Bevilacqua</a>, PhD student @ Sapienza<br/>
 bevilacqua [at] di.uniroma1.it</p>
+</div>
 
+<div>
 <img src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_images/dino3.jpg" width="60px">
 <p><a href=https://pasinit.github.io/>Tommaso Pasini</a>, Post-Doc @ Sapienza<br/>
 pasini [at] di.uniroma1.it</p>
+</div>
 
+<div>
 <img src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_images/dino1.jpg" width="60px">
 <p><a href=http://wwwusers.di.uniroma1.it/~navigli/>Roberto Navigli</a>, Full Professor @ Sapienza<br/>
 navigli [at] di.uniroma1.it</p>
+</div>
