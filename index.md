@@ -11,7 +11,7 @@
 
 <form action="https://www.w3docs.com/" method="get" target="_blank"> 
   <button id="button" class="btn"><i class="far fa-bookmark"></i></button>
-</form> ### Reference
+</form> <h3> Reference </h3>
 <a href="https://pasinit.github.io/papers/lacerra_etal_aaai2020.pdf" download target='_blank'>CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation</a>
 ### Authors
 Caterina Lacerra, PhD student @ Sapienza<br/>
