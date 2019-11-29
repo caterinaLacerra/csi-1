@@ -1,7 +1,7 @@
 <style>
 .btn{
-  border: none;
-  background-color: transparent;
+  border: 1px;
+  background-color: black;
 }
 
 .caterina {
@@ -37,7 +37,7 @@
 </div>
 
 
-### Reference <button id="button_ref" class="btn" onclick="document.getElementById('myModal_c').style.display = block"><i class="far fa-bookmark"></i></button>
+### Reference <button id="button_ref" class="btn" onclick="document.getElementById('myModal_c').style.display = block"></button>
 <a href="https://pasinit.github.io/papers/lacerra_etal_aaai2020.pdf" download target='_blank'>CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation</a>
 ### Authors
 Caterina Lacerra, PhD student @ Sapienza<br/>
