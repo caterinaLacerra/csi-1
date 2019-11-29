@@ -85,7 +85,7 @@ ul.download_buttons {
   var btn = document.getElementById("but")
   var modal = document.getElementById("myModal")
 
-  btn.onclick = function() {
+  btn.onclick = myFunct() {
     modal.style.display = "block";
   }
    
@@ -131,7 +131,7 @@ ul.download_buttons {
           <p>Some text in the Modal..</p>
         </div>
       </div>
-      <button id="but"></button>
+      <button id="but" onclick="myFunct"></button>
       {{ content }}
       </section>
       
