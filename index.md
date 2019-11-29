@@ -39,7 +39,7 @@ function myFunction() {
   <p>This is a paragraph.</p>
 </div> 
 
-### Reference <button id="button_ref" class="btn"><i class="far fa-bookmark"></i></button>
+### Reference <button id="button_ref" class="btn" onclick="myFunction()"><i class="far fa-bookmark"></i></button>
 <a href="https://pasinit.github.io/papers/lacerra_etal_aaai2020.pdf" download target='_blank'>CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation</a>
 ### Authors
 Caterina Lacerra, PhD student @ Sapienza<br/>
