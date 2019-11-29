@@ -87,10 +87,11 @@ ul.download_buttons {
   }
    
   window.onclick = function(event) {
-  if (event.target == document.getElementById("myModal")) {
-    modal.style.display = "none";
-  }
-} 
+    var modal = document.getElementById("myModal")
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  } 
 </script>
  
  <meta charset="UTF-8">
