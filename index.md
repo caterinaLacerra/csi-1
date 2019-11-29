@@ -11,7 +11,7 @@
   
 <div>
   <h3    style="vertical-align:middle;"> Reference </h3>
-  <form action="https://www.w3docs.com/" method="get" target="_blank"> 
+  <form action="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_download/bibtex" method="get" target="_blank"> 
   <button id="button" class="btn"><i class="far fa-bookmark"></i></button>
   </form>
 
