@@ -81,21 +81,6 @@ ul.download_buttons {
 }
   
 </style>
- <script>
-  var btn = document.getElementById("but")
-  var modal = document.getElementById("myModal")
-
-  btn.onclick = myFunct() {
-    modal.style.display = "block";
-  }
-   
-  window.onclick = function(event) {
-    if (event.target == modal) {
-      modal.style.display = "none";
-    }
- } 
-</script>
- 
  <meta charset="UTF-8">
  <meta http-equiv="X-UA-Compatible" content="IE=edge">
  <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -131,7 +116,6 @@ ul.download_buttons {
           <p>Some text in the Modal..</p>
         </div>
       </div>
-      <button id="but" onclick="myFunct"></button>
       {{ content }}
       </section>
       
