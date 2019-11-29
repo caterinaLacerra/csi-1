@@ -43,12 +43,12 @@ bevilacqua [at] di.uniroma1.it</p>
 
 <div>
 <img class="img" src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_images/dino3.jpg" width="60px">
-<a href="https://pasinit.github.io/">Tommaso Pasini</a><p class="content-holder"><br/>Post-Doc @ Sapienza<br/>
+<a href="https://pasinit.github.io/">Tommaso Pasini</a><br/><p class="content-holder"><br/>Post-Doc @ Sapienza<br/>
 pasini [at] di.uniroma1.it</p>
 </div>
 
 <div>
 <img class="img" src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_images/dino1.jpg" width="60px">
-<a href="http://wwwusers.di.uniroma1.it/~navigli/">Roberto Navigli</a><p class="content-holder"><br/>Full Professor @ Sapienza<br/>
+<a href="http://wwwusers.di.uniroma1.it/~navigli/">Roberto Navigli</a><br/><p class="content-holder"><br/>Full Professor @ Sapienza<br/>
 navigli [at] di.uniroma1.it</p>
 </div>
