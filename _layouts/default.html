@@ -61,7 +61,7 @@ ul.download_buttons {
 </style>
  <script>
   function myFunction() {
-    document.getElementById("button").innerHTML = "Hello World";
+    document.getElementById("myModal").style.display = none;
   }
 </script>
  
@@ -94,9 +94,13 @@ ul.download_buttons {
         {% endif %}
       </header>
       <section>
-
+        <div id="myModal">
+          <div>
+            <p>Some text in the Modal..</p>
+          </div>
+        </div>
+      <button id="but" onclick="myFunction()">Click me</button>
       {{ content }}
-      <button id="button" onclick="myFunction()">Click me</button>
       </section>
       
     </div>
