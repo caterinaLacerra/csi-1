@@ -18,7 +18,7 @@
  </div>
 <a href="https://pasinit.github.io/papers/lacerra_etal_aaai2020.pdf" download target='_blank'>CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation</a>
 ### Authors
-<img src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_images/dino1.jpg">
+<img src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_images/dino4.jpg" height="42" width="42">
 Caterina Lacerra, PhD student @ Sapienza<br/>
 lacerra [at] di.uniroma1.it
 
@@ -30,6 +30,6 @@ bevilacqua [at] di.uniroma1.it
 [Tommaso Pasini](https://pasinit.github.io/), Post-Doc @ Sapienza<br/>
 pasini [at] di.uniroma1.it
 
-<img src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_images/dino4.jpg">
+<img src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_images/dino1.jpg">
 [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/), Full Professor @ Sapienza<br/>
 navigli [at] di.uniroma1.it
