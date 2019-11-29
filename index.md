@@ -23,7 +23,7 @@
   
   <a href="https://pasinit.github.io/papers/lacerra_etal_aaai2020.pdf" download target='_blank'>CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation</a>
   ```
-      @inproceedings{ lacerraetal:2020
+    @inproceedings{lacerraetal:2020
     title={CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation},
     author={Lacerra, Caterina and Bevilacqua, Michele and Pasini, Tommaso and Navigli, Roberto},
     booktitle={Proceedings of the 34th Conference on Artificial Intelligence},
