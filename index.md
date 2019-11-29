@@ -22,14 +22,14 @@
 <p>Caterina Lacerra, PhD student @ Sapienza<br/>
 lacerra [at] di.uniroma1.it</p>
 
-<img src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_images/dino2.jpg">
+<img src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_images/dino2.jpg" width="60px">
 <p>[Michele Bevilacqua](https://mbevila.github.io/), PhD student @ Sapienza<br/>
 bevilacqua [at] di.uniroma1.it</p>
 
-<img src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_images/dino3.jpg">
+<img src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_images/dino3.jpg" width="60px">
 <p>[Tommaso Pasini](https://pasinit.github.io/), Post-Doc @ Sapienza<br/>
 pasini [at] di.uniroma1.it</p>
 
-<img src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_images/dino1.jpg">
+<img src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/_images/dino1.jpg" width="60px">
 <p>[Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/), Full Professor @ Sapienza<br/>
 navigli [at] di.uniroma1.it</p>
