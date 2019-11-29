@@ -60,7 +60,7 @@ ul.download_buttons {
 }
   
  .modal {
-  display: none; /* Hidden by default */
+  display: block; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
   left: 0;
@@ -124,7 +124,7 @@ ul.download_buttons {
           <p>Some text in the Modal..</p>
         </div>
       </div>
-      <button id="but" onclick="myFunction()">Click me</button>
+      <button id="but" onclick="document.getElementById('myModal').style.background-color = blue">Click me</button>
       {{ content }}
       </section>
       
