@@ -42,7 +42,7 @@ lacerra [at] di.uniroma1.it</p>
 </div>
 
 <div>
-<img class="img" src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/docs/_images/dino2.jpg" width="60px">
+<img class="img" src="https://raw.githubusercontent.com/SapienzaNLP/CSI/master/docs/_images/dino2.jpg" width="60px">
 <p class="content-holder">
   <a href="https://mbevila.github.io/">Michele Bevilacqua</a><br/>
   PhD student @ Sapienza<br/>
@@ -51,7 +51,7 @@ lacerra [at] di.uniroma1.it</p>
 </div>
 
 <div>
-<img class="img" src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/docs/_images/dino3.jpg" width="60px">
+<img class="img" src="https://raw.githubusercontent.com/SapienzaNLP/CSI/master/docs/_images/dino3.jpg" width="60px">
 <p class="content-holder">
   <a href="https://pasinit.github.io/">Tommaso Pasini</a><br/>
   Post-Doc @ Sapienza<br/>
@@ -60,7 +60,7 @@ lacerra [at] di.uniroma1.it</p>
 </div>
 
 <div>
-<img class="img" src="https://raw.githubusercontent.com/caterinaLacerra/CSI/master/docs/_images/dino1.jpg" width="60px">
+<img class="img" src="https://raw.githubusercontent.com/SapienzaNLP/CSI/master/docs/_images/dino1.jpg" width="60px">
 <p class="content-holder">
   <a href="http://wwwusers.di.uniroma1.it/~navigli/">Roberto Navigli</a><br/>
   Full Professor @ Sapienza<br/>
