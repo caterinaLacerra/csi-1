@@ -69,7 +69,7 @@ lacerra [at] di.uniroma1.it</p>
 </div>
 
 ### Acknowledgements
-<p style=font-size:10.5pt;><span><img style="border-width:0;width:45px;height:45px;" src="_images/erc_logo.png"/></span> The authors gratefully acknowledge the support of the ERC Consolidator Grant MOUSSE No. 726487 under the European Union's Horizon 2020 research and innovation programme.</p>
+<p style="font-size:10.5pt"><span><img style="border-width:0;width:45px;height:45px;" src="_images/erc_logo.png"/></span> The authors gratefully acknowledge the support of the ERC Consolidator Grant MOUSSE No. 726487 under the European Union's Horizon 2020 research and innovation programme.</p>
 
 This work was supported in part by the MIUR under grant "Dipartimenti di eccellenza 2018-2020" of the Department of Computer Science of the Sapienza University of Rome.
 
