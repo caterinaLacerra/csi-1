@@ -36,13 +36,13 @@
 
 <div>
   
-<img class="img" src="https://raw.githubusercontent.com/SapienzaNLP/CSI/master/docs/_images/dino4.jpg" width="60px" >
+<img class="img" src="_images/dino4.jpg" width="60px" >
 <p class="content-holder">Caterina Lacerra<br/>PhD student @ Sapienza<br/>
 lacerra [at] di.uniroma1.it</p>
 </div>
 
 <div>
-<img class="img" src="https://raw.githubusercontent.com/SapienzaNLP/CSI/master/docs/_images/dino2.jpg" width="60px">
+<img class="img" src="_images/dino2.jpg" width="60px">
 <p class="content-holder">
   <a href="https://mbevila.github.io/">Michele Bevilacqua</a><br/>
   PhD student @ Sapienza<br/>
@@ -51,7 +51,7 @@ lacerra [at] di.uniroma1.it</p>
 </div>
 
 <div>
-<img class="img" src="https://raw.githubusercontent.com/SapienzaNLP/CSI/master/docs/_images/dino3.jpg" width="60px">
+<img class="img" src="_images/dino3.jpg" width="60px">
 <p class="content-holder">
   <a href="https://pasinit.github.io/">Tommaso Pasini</a><br/>
   Post-Doc @ Sapienza<br/>
@@ -60,7 +60,7 @@ lacerra [at] di.uniroma1.it</p>
 </div>
 
 <div>
-<img class="img" src="https://raw.githubusercontent.com/SapienzaNLP/CSI/master/docs/_images/dino1.jpg" width="60px">
+<img class="img" src="_images/dino1.jpg" width="60px">
 <p class="content-holder">
   <a href="http://wwwusers.di.uniroma1.it/~navigli/">Roberto Navigli</a><br/>
   Full Professor @ Sapienza<br/>
@@ -69,8 +69,7 @@ lacerra [at] di.uniroma1.it</p>
 </div>
 
 ### Acknowledgements
-
-<img class="img" src="https://raw.githubusercontent.com/SapienzaNLP/CSI/master/docs/_images/erc_ogo.png" width="60px" align="middle"> <span>The authors gratefully acknowledge the support of the ERC Consolidator Grant MOUSSE No. 726487 under the European Union's Horizon 2020 research and innovation programme.</span>
+<p><span><img style="border-width:0;width:45px;height:45px;" src="_images/erc_logo.png" /></span> The authors gratefully acknowledge the support of the ERC Consolidator Grant MOUSSE No. 726487 under the European Union's Horizon 2020 research and innovation programme.</p>
 
 This work was supported in part by the MIUR under grant "Dipartimenti di eccellenza 2018-2020" of the Department of Computer Science of the Sapienza University of Rome.
 
